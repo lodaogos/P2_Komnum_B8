@@ -6,7 +6,7 @@
 |Hammuda Arsyad             |5025211146     |
 
 ### Library Yang Digunakan
-Library yang digunakan adalah pandas, numpy, matplotlib, dan Equation
+Library yang digunakan adalah pandas, numpy, dan Equation
 
 ### Code
 
