@@ -119,3 +119,13 @@ n = int(input("Jumlah n : "))
 
 # Panggil metode romberg
 romberg(equ, a, b, n)
+
+```
+
+### Contoh Pengerjaan Dengan f(x) = 1/(9+x)
+![image](https://user-images.githubusercontent.com/115076652/208939570-74c50025-716c-4773-b8f8-b78d364d9174.png)
+
+### Link Google Collab
+https://colab.research.google.com/drive/1h4oenCFtxoC9uraChzQIBlD1ijtTFf3U?usp=sharing
+
+
